@@ -25,8 +25,7 @@
 
 ## Dataset Information
 Dataset Source
-  Url = "https://raw.githubusercontent.com/SR1608/Datasets/main/covid_data.csv"
-
+  Url =  https://raw.githubusercontent.com/SR1608/Datasets/main/covid-data.csv
 
 #### Dataset Features
 
