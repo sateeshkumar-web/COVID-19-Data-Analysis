@@ -67,7 +67,9 @@ Dataset Source
 
 # Dashboard:
 <img width="1127" height="898" alt="image" src="https://github.com/user-attachments/assets/eb5cd71c-6548-48f4-a185-4769b84ab405" />
-<img width="1127" height="898" alt="image" src="https://github.com/sateeshkumar-web/COVID-19-Data-Analysis/tree/main/Dashboard" />
+
+<img width="1351" height="902" alt="image" src="https://github.com/user-attachments/assets/b5c64fa1-2257-471f-9438-4f7ae475173b" />
+
 
 ## Project Structure:
 
